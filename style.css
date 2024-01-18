@@ -1,0 +1,45 @@
+h1 {
+color:blue;
+font-family:fantasy;
+background-color:yellow;
+border:5px purple;
+padding: 50px;
+margin-left:50px
+}
+
+h2{
+    color:purple;
+    font-family:fantasy;
+    margin-left:50px;
+}
+
+p {
+    color:blueviolet;
+    font-family:fantasy;
+    margin-left:50px;
+    font-size:32px;
+}
+
+body {
+    background-color:pink;
+}
+
+img {
+    border:10px solid fuchsia;
+    width:50%;
+    height:50%;
+    margin-left:100px;
+    padding:5px;
+}
+
+#highlight {
+    color:darkgreen;
+    background-color:limegreen;
+    border:2px dotted brown;
+}
+
+.top {
+    background-color:aqua;
+    float:right;
+    margin-left:50px;
+}
